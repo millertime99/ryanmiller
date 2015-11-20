@@ -7,7 +7,9 @@ Grey #A5ACAF
 
 FONTS:
 -------------------------
-body: font-family: 'Open Sans', sans-serif;
+H2:  font-family: 'Cedarville Cursive', cursive;
+Body:   font-family: 'Waiting for the Sunrise', cursive;
+Header:   font-family: 'Sofia', cursive;
 
 IMAGES:
 -------------------------
@@ -31,4 +33,18 @@ profile
 - - - - - -
 ryan.jpg
 */
+ 
 
+
+.profile {
+    width: 30%;
+}
+
+h1,
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+p {
+    font-family: 'Waiting for the Sunrise', cursive;
+}
